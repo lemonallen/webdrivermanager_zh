@@ -1,0 +1,2 @@
+# webdrivermanager_zh
+webdrivermanager库国内版。 webdrivermanager是一个用于界面自动化测试时，浏览器驱动管理的开源库，该库的源码可以在github上获取。但是，在原库在使用时，无法下载谷歌驱动。我的这个，修改了这个功能，支持下载谷歌驱动
